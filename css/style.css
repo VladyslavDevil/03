@@ -366,7 +366,7 @@ color: var(--primary-title-color);
 .filter-cards-item:nth-child(3n) {
     margin-right: 0;
 }
-.filter-cards-item:nth-child(n + 6) {
+.filter-cards-item:nth-child(n + 7) {
     margin-bottom: 0;
 }
 
